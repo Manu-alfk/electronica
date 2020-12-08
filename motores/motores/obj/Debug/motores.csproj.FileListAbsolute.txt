@@ -1,0 +1,27 @@
+C:\Users\mi bendicion\Desktop\motores\motores\bin\Debug\motores.exe.config
+C:\Users\mi bendicion\Desktop\motores\motores\obj\Debug\motores.Form1.resources
+C:\Users\mi bendicion\Desktop\motores\motores\obj\Debug\motores.Properties.Resources.resources
+C:\Users\mi bendicion\Desktop\motores\motores\obj\Debug\motores.csproj.GenerateResource.Cache
+C:\Users\mi bendicion\Desktop\motores\motores\bin\Debug\motores.exe
+C:\Users\mi bendicion\Desktop\motores\motores\bin\Debug\motores.pdb
+C:\Users\mi bendicion\Desktop\motores\motores\obj\Debug\motores.exe
+C:\Users\mi bendicion\Desktop\motores\motores\obj\Debug\motores.pdb
+C:\Users\mi bendicion\Desktop\motores\motores\obj\Debug\motores.csprojResolveAssemblyReference.cache
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\motores\motores\bin\Debug\motores.exe.config
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\motores\motores\obj\Debug\motores.exe
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\motores\motores\obj\Debug\motores.pdb
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\motores\motores\bin\Debug\motores.exe
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\motores\motores\bin\Debug\motores.pdb
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\motores\motores\obj\Debug\motores.csprojResolveAssemblyReference.cache
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\motores\motores\obj\Debug\motores.Form1.resources
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\motores\motores\obj\Debug\motores.Properties.Resources.resources
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\motores\motores\obj\Debug\motores.csproj.GenerateResource.Cache
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\arduino_projects\motores\motores\bin\Debug\motores.exe.config
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\arduino_projects\motores\motores\obj\Debug\motores.exe
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\arduino_projects\motores\motores\obj\Debug\motores.pdb
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\arduino_projects\motores\motores\bin\Debug\motores.exe
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\arduino_projects\motores\motores\bin\Debug\motores.pdb
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\arduino_projects\motores\motores\obj\Debug\motores.csprojResolveAssemblyReference.cache
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\arduino_projects\motores\motores\obj\Debug\motores.Form1.resources
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\arduino_projects\motores\motores\obj\Debug\motores.Properties.Resources.resources
+C:\Users\mi bendicion\Desktop\carpeta de proyectos\arduino_projects\motores\motores\obj\Debug\motores.csproj.GenerateResource.Cache
